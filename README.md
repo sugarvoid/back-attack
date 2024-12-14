@@ -1,10 +1,10 @@
 # Back Attack
 <br>
 
-![gameplay](https://github.com/sugarvoid/back-attack/blob/master/gameplay.gif)
+![gameplay](https://github.com/sugarvoid/back-attack/blob/master/preview.gif)
 <br>
 
-![cart](https://github.com/sugarvoid/back-attackblob/master/back_attack.p8.png)
+![cart](https://github.com/sugarvoid/back-attack/blob/master/back_attack.p8.png)
 
 
 ### Goal :dart:
